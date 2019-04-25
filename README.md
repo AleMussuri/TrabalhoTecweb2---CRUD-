@@ -1,3 +1,4 @@
-# TrabalhoTecweb2---CRUD-
-	
-Trabalho de AV1 - Construção de CRUD
+# crud-php
+CRUD PHP com DataTables e FontAwesome
+
+Projeto referente ao trabalho da disciplina de Tecnologias para Internet 2
